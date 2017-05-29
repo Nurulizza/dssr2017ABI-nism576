@@ -40,8 +40,10 @@
 
 ## Me
 
-## Do all the works
+## do all the works
 
-## Report to the supervisor
+## report to the supervisor
 
-## SV - read & respond to reports
+## SV
+
+## read & respond to reports
