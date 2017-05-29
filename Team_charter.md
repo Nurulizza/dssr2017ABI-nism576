@@ -21,29 +21,29 @@
 ###### 7. Validation
 
 
-# Success Criteria
+## Success Criteria
 
-## 1. Have an optimized model 
+###### 1. Have an optimized model 
 
-## 2. The model work with new data (The model is valid!!)
+###### 2. The model work with new data (The model is valid!!)
 
 
-# Team Agreement
+## Team Agreement
 
-## - Update every step with the SV and team member
+###### - Update every step with the SV and team member
 
-## - Discuss difficulties with others
+###### - Discuss difficulties with others
 
 
   
-# Project Team
+## Project Team
 
 ## Me
 
-## - do all the works
+###### - do all the works
 
-## - report to the supervisor
+###### - report to the supervisor
 
 ## SV
 
-## - read & respond to reports
+###### - read & respond to reports
