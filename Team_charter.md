@@ -1,4 +1,4 @@
-** Vision(why?) **
+# Vision(why?)
 
 ## To understand how PI3K signalling pathway works in uNK cells and how is it different from pNK cells.
 
@@ -30,9 +30,9 @@
 
 # Team Agreement
 
-## Update every step with the SV and team member
+## - Update every step with the SV and team member
 
-## Discuss difficulties with others
+## - Discuss difficulties with others
 
 
   
@@ -40,10 +40,10 @@
 
 ## Me
 
-## do all the works
+## - do all the works
 
-## report to the supervisor
+## - report to the supervisor
 
 ## SV
 
-## read & respond to reports
+## - read & respond to reports
