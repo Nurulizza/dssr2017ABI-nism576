@@ -1,15 +1,15 @@
-#Vision (why?)
+# Vision (why?)
 
-#Mission (what?)
+# Mission (what?)
 
-#Success Criteria
+# Success Criteria
 
-#Team Agreement
+# Team Agreement
 
-##Behavioral
+## Behavioral
 
-##Communication
+## Communication
   
-#Project Team
+# Project Team
 
-##Roles & Responsibility
+## Roles & Responsibility
