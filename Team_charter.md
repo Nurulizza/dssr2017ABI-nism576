@@ -1,6 +1,6 @@
-## __Vision__ (why?)
+# Vision (why?)
 
-## 
+## To understand how PI3K signalling pathway works in uNK cells and how is it different from pNK cells.
 
 # Mission (what?)
 
@@ -12,10 +12,22 @@
 
 ## 3. Write ODEs for the pathway
 
-##
+## 4. Simulate the pathway
+
+## 5. Optimize the model using genetic algorithm optimization
+
+## 6. Sensitivity analysis
+
+## 7. Validation
 
 
 # Success Criteria
+
+## 1. Have an optimized model 
+
+## 2. The model work with new data (The model is valid!!)
+
+
 
 # Team Agreement
 
