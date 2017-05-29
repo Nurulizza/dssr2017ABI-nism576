@@ -1,8 +1,8 @@
-# Vision (why?)
+# Vision(why?)
 
 ## To understand how PI3K signalling pathway works in uNK cells and how is it different from pNK cells.
 
-# Mission (what?)
+# Mission(what?)
 
 ## To get a complete model of PI3K signalling pathway.
 
@@ -28,13 +28,20 @@
 ## 2. The model work with new data (The model is valid!!)
 
 
-
 # Team Agreement
 
-## Behavioral
+## Update every step with the SV and team member
 
-## Communication
+## Discuss difficulties with others
+
+
   
 # Project Team
 
-## Roles & Responsibility
+## Me
+
+## Do all the works
+
+## Report to the supervisor
+
+## SV - read & respond to reports
