@@ -1,0 +1,4 @@
+Cytokine detemine the PI3K family activated
+Distinct members of the PI3K family are activated in the immune system acoording to the type of cell and/or receptor.
+Eg. cytokines such as IL-2, IL-3 and IFN activate class Ia PI3Ks in many immune cells.
+
