@@ -1,0 +1,11 @@
+classdef ODE_HLAE_ActivationTest  < matlab.unittest.TestCase
+    methods (Test)
+        function testdxdtBasic(testCase)
+            prm = [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+            X
+            [dxdt] = ODE_HLAE_Activation();
+            expExitFlag = 0;
+            testCase.verifyEqual(exitflag,expExitFlag)
+        end
+    end
+end
