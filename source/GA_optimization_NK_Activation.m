@@ -1,4 +1,4 @@
-function [prm_opt,fval,exitflag,output] = GA_HLAE_Activation()
+function [prm_opt,fval,exitflag,output] = GA_optimization_NK_Activation()
 
 %%assessment point 
 exp =  [0.0016 0.0016 0.0016 0.0016 0.0016 0.0016 0.0016 0.0016 0.0016 0.0016 0.0016 0.0017 0.0017;
@@ -97,9 +97,8 @@ end
 % legend ('Exp Data','prm_opt');
 % xlabel('Time');
 % ylabel('dxdt');
-end
 
- function dXdT = ODE_HLAE_Activation(~,X,prm)
+function dXdT = ODE_HLAE_Activation(~,X,prm)
 %%Define parameters
 k_r1 = 10^prm(1);
 k_f1 = 10^prm(2);
@@ -163,3 +162,6 @@ dXdT(12) = -k_f2*D*SFK + k_r2*C1 + k_f3*C1 - k_f7*D2*SFK + k_r7*C3 + k_f8*C3;
 dXdT(13) = -k_f4*D1*CD45 + k_r4*C2 + k_f5*C2 - k_f9*D3*CD45 + k_r9*C4 + k_f10*C4;
 
 end
+end
+
+ 
