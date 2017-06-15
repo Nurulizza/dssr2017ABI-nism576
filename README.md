@@ -15,7 +15,7 @@ The understanding of how uNK cells make decision in the placenta will help to av
 
 ## Licence
 
-Apache
+Apache License 2.0
 
 ## Instruction
 
